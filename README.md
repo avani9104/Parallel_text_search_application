@@ -7,6 +7,24 @@ TEAM MEMBERS:
 1. AVANI KASAT (19BCE1058)
 2. SHREYA PRIYADARSHINI ROY (19BCE1779)
 
+ABSTRACT:
+
+We have designed a parallel text search application which help user to identify that a given word or phrase is present in how many other documents. 
+
+Languages used are:
+
+1)Html and CSS
+
+2)PHP
+
+3)OPENMP Library
+
+4)MySQL
+
+5)C++
+
+
+
 screenshots:
 
 1. DATABASE
