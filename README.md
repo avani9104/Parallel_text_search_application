@@ -1,4 +1,4 @@
-# Parallel_text_search_application
+# Parallel_Text_Search_Application
 CSE4001
 
 COURSE TITLE: "PARALLEL AND DISTRIBUTED COMPUTING"
