@@ -23,6 +23,9 @@ Languages used are:
 
 5)C++
 
+The concept of Parallelism is used in this interface to find out the frequency of each word or phrase in multiple documents and then 
+
+The Ranks will be assigned to all documents based on how many times that word has been occurred in that particular document.
 
 
 screenshots:
